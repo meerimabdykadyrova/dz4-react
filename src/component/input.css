@@ -1,0 +1,16 @@
+.input {
+    width: 300px;
+    height: 39px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+    /*margin-right: 7px;*/
+    outline: none;
+    display: flex;
+    flex-direction: column;
+    column-gap: 5px;
+    margin: 0 auto;
+}
+#input {
+    margin-top: 10px;
+}
